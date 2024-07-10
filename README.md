@@ -39,10 +39,9 @@ The DVLD Management System is a comprehensive desktop software solution designed
 * Manage user accounts for system access, including usernames, passwords, and activation status.
 
 ## Technologies Used
-
-* Framework: .NET Framework (C#)
-* Database: Microsoft SQL Server with ADO.NET
-* User Interface: Windows Forms (WinForms)
-* Authentication: Custom user authentication system
-* Architecture: 3-tier architecture
-* Deployment: Standalone desktop application
+ 
+* **Framework**: .NET Framework (C#)
+* **User Interface**: Windows Forms (WinForms)
+* **Authentication**: Custom user authentication system
+* **Architecture**: 3-tier architecture
+* **Deployment**: Standalone desktop application
